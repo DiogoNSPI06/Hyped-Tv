@@ -1,0 +1,268 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 523px;
+}
+
+.u-section-1 .u-video-1 {
+  height: 467px;
+  width: 830px;
+  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+  margin: 41px auto 15px 28px;
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 461px;
+  }
+
+  .u-section-1 .u-video-1 {
+    height: 404px;
+    width: 720px;
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 360px;
+  }
+
+  .u-section-1 .u-video-1 {
+    height: 310px;
+    width: 540px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 247px;
+  }
+
+  .u-section-1 .u-video-1 {
+    height: 200px;
+    width: 340px;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 287px;
+}
+
+.u-section-2 .u-text-1 {
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+  margin: 0 285px 0 30px;
+}
+
+.u-section-2 .u-image-1 {
+  width: 50px;
+  height: 50px;
+  margin: 10px auto 0 30px;
+}
+
+.u-section-2 .u-text-2 {
+  margin: -50px 837px 0 90px;
+}
+
+.u-section-2 .u-text-3 {
+  margin: 1px auto 0 90px;
+}
+
+.u-section-2 .u-btn-1 {
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  background-image: linear-gradient(to right, #2481ff, #120676);
+  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+  margin: -47px auto 0 313px;
+}
+
+.u-section-2 .u-text-4 {
+  font-weight: 700;
+  font-size: 1.125rem;
+  margin: 22px auto 0 30px;
+}
+
+.u-section-2 .u-text-5 {
+  font-style: italic;
+  margin: 10px 285px 13px 30px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 313px;
+  }
+
+  .u-section-2 .u-text-1 {
+    width: auto;
+    margin-right: 88px;
+    margin-left: 27px;
+  }
+
+  .u-section-2 .u-text-2 {
+    width: auto;
+    margin-right: 627px;
+    margin-left: 100px;
+    font-size: 1.5rem;
+  }
+
+  .u-section-2 .u-text-3 {
+    width: auto;
+    margin-top: 6px;
+    margin-left: 103px;
+    font-size: 1.125rem;
+  }
+
+  .u-section-2 .u-btn-1 {
+    margin-top: -50px;
+    margin-left: 319px;
+    font-size: 1rem;
+  }
+
+  .u-section-2 .u-text-4 {
+    width: auto;
+    margin-top: 23px;
+    margin-left: 33px;
+  }
+
+  .u-section-2 .u-text-5 {
+    width: auto;
+    margin-top: 5px;
+    margin-right: 85px;
+    margin-bottom: 40px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 404px;
+  }
+
+  .u-section-2 .u-text-1 {
+    margin-right: 0;
+    margin-left: 0;
+  }
+
+  .u-section-2 .u-image-1 {
+    margin-left: 20px;
+  }
+
+  .u-section-2 .u-text-2 {
+    margin-right: 419px;
+    margin-left: 88px;
+  }
+
+  .u-section-2 .u-text-3 {
+    margin-top: 5px;
+    margin-left: 89px;
+  }
+
+  .u-section-2 .u-btn-1 {
+    margin-top: -49px;
+    margin-left: auto;
+  }
+
+  .u-section-2 .u-text-4 {
+    margin-top: 20px;
+    margin-left: 20px;
+  }
+
+  .u-section-2 .u-text-5 {
+    margin: 12px 20px 60px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 440px;
+  }
+
+  .u-section-2 .u-text-2 {
+    margin-right: 238px;
+    margin-left: 89px;
+  }
+
+  .u-section-2 .u-text-3 {
+    margin-top: 10px;
+  }
+
+  .u-section-2 .u-btn-1 {
+    margin-top: -56px;
+    margin-right: 104px;
+  }
+
+  .u-section-2 .u-text-4 {
+    margin-top: 25px;
+  }
+
+  .u-section-2 .u-text-5 {
+    margin-top: 14px;
+    margin-bottom: 45px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 514px;
+  }
+
+  .u-section-2 .u-image-1 {
+    margin-top: 7px;
+    margin-left: 9px;
+  }
+
+  .u-section-2 .u-text-2 {
+    font-size: 1.125rem;
+    margin-right: 124px;
+    margin-left: 64px;
+  }
+
+  .u-section-2 .u-text-3 {
+    font-size: 0.875rem;
+    margin-top: 1px;
+    margin-left: 64px;
+  }
+
+  .u-section-2 .u-btn-1 {
+    font-size: 0.875rem;
+    margin-top: -38px;
+    margin-right: 0;
+  }
+
+  .u-section-2 .u-text-4 {
+    margin-top: 28px;
+    margin-left: 9px;
+    margin-right: 9px;
+  }
+
+  .u-section-2 .u-text-5 {
+    margin: 8px 10px 32px;
+  }
+} .u-section-3 {
+  background-image: url("images/HypedPainel2.png");
+  background-position: 50% 50%;
+}
+
+.u-section-3 .u-sheet-1 {
+  min-height: 295px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 243px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 186px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 140px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 88px;
+  }
+}
